@@ -10,3 +10,4 @@ data/disputes/
 .idea/
 .vscode/
 *.log
+SSH_KEY*
