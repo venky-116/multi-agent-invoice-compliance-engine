@@ -1,0 +1,30 @@
+STATEMENT OF WORK (SOW) - Q3 2025 CONSTRUCTION PROGRAM
+Issued under Master Services Agreements on file.
+Client: GlobalCorp Enterprises Inc.
+Program Reference: GCORP-Q3-2025-BUILD
+
+1. PROGRAM OVERVIEW
+This SOW governs all vendor activity during the Q3 2025 Construction
+Program for the Dallas Campus Expansion Project.
+
+2. SCOPE BREAKDOWN
+Phase A: Site Preparation
+  - Site Clearing & Grading (all acres): $800.00/acre — Vendor: V001, V003
+  - Safety Pre-inspection:               $400.00/unit — Vendor: V004
+
+Phase B: Foundation & Structure
+  - Concrete Foundation:  $185.00/cubic yard — Vendor: V001, V006
+  - Steel Frame Assembly: $1,200.00/ton — Vendor: V001
+
+Phase C: MEP Installation
+  - Electrical Wiring:    $320.00/unit — Vendor: V002
+  - HVAC Installation:    $2,500.00/unit — Vendor: V002
+  - Plumbing Rough-In:    $1,100.00/unit — Vendor: V002, V006
+
+Phase D: Project Oversight
+  - Project Management:   $150.00/hour (max 160 hrs/month) — Vendor: V003
+
+3. COMPLIANCE NOTE
+Any invoice submitted under this SOW must reference this program number.
+Rates must match the applicable MSA schedule. Any variance triggers
+automatic audit review per GlobalCorp Procurement Policy 4.3.2.

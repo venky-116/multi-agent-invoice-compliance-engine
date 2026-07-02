@@ -1,0 +1,43 @@
+MASTER SERVICES AGREEMENT
+Between: GlobalCorp Enterprises Inc. ("Client")
+And: Apex Construction LLC ("Vendor")
+Vendor ID: V001
+Effective Date: January 1, 2025
+Expiration Date: December 31, 2027
+
+1. SCOPE OF SERVICES
+Vendor shall provide construction and civil engineering services as detailed
+in each Statement of Work (SOW) issued under this Agreement.
+
+2. PRICING AND TARIFFS
+The following unit rates are agreed and binding for the term of this Agreement:
+  - Concrete Foundation Work:    $185.00 per cubic yard
+  - Steel Frame Assembly:        $1,200.00 per ton
+  - Site Clearing & Grading:     $800.00 per acre
+  - Project Management Fee:      $150.00 per hour
+
+Any invoice submitted at rates exceeding the above schedule shall be deemed
+non-compliant and subject to a 15% penalty deduction on the overbilled amount.
+
+3. SERVICE THRESHOLDS
+Vendor guarantees a minimum monthly delivery capacity of:
+  - Concrete work: 200 cubic yards per month
+  - Steel assembly: 50 tons per month
+Failure to meet these thresholds grants Client the right to source alternative
+contractors at Vendor's cost differential.
+
+4. PAYMENT TERMS
+Client shall pay undisputed invoices within Net-30 days of receipt.
+Disputed amounts shall be resolved within 14 days of written notice.
+
+5. PENALTY CLAUSES
+  - Late delivery penalty: 2% of invoice value per week of delay.
+  - Non-compliance penalty: $5,000 per materially non-conforming invoice.
+  - Overbilling recovery: Client may deduct overbilled amounts from future payments.
+
+6. TERMINATION
+Either party may terminate this Agreement with 60 days written notice.
+Termination for cause may occur immediately upon material breach.
+
+7. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Texas.

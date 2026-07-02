@@ -1,0 +1,12 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+data/chroma_db/
+data/erp_logs.db
+data/audit_checkpoint.db
+data/disputes/
+*.zip
+.idea/
+.vscode/
+*.log

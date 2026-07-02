@@ -1,0 +1,42 @@
+MASTER SERVICES AGREEMENT
+Between: GlobalCorp Enterprises Inc. ("Client")
+And: SouthWest Build Group ("Vendor")
+Vendor ID: V006
+Effective Date: July 1, 2025
+Expiration Date: June 30, 2028
+
+1. SCOPE OF SERVICES
+SouthWest Build Group provides comprehensive commercial construction
+services including foundation, framing, MEP, and finishing work.
+
+2. PRICING SCHEDULE (BINDING RATES)
+  - Concrete Foundation Work:    $185.00 per cubic yard
+  - Steel Frame Assembly:        $1,200.00 per ton
+  - Electrical Wiring (Phase 1): $320.00 per unit
+  - HVAC Installation:           $2,500.00 per unit
+  - Plumbing Rough-In:           $1,100.00 per unit
+  - Project Management Fee:      $150.00 per hour
+
+The foregoing rates are firm and not subject to escalation during
+the initial 24-month period. Renegotiation may occur at month 25.
+
+3. QUALITY STANDARDS
+All work must conform to IBC 2021 standards. Third-party inspection
+reports must accompany milestone billing submissions.
+
+4. PAYMENT TERMS
+Progress billing permitted at 20% project completion intervals.
+Final 10% withheld pending punch-list completion and sign-off.
+Net-30 on all approved progress invoices.
+
+5. LIQUIDATED DAMAGES
+Delays attributable to Vendor beyond agreed milestone schedule:
+  $2,500 per calendar day for the first 14 days of delay.
+  $5,000 per calendar day thereafter.
+
+6. CHANGE ORDER PROCESS
+No additional cost without written Change Order executed by both parties
+prior to commencement of changed scope of work.
+
+7. DISPUTE RESOLUTION
+Mediation first, then binding arbitration in Phoenix, Arizona.

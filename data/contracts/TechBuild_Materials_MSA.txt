@@ -1,0 +1,34 @@
+MASTER SERVICES AGREEMENT
+Between: GlobalCorp Enterprises Inc. ("Client")
+And: TechBuild Materials Inc ("Vendor")
+Vendor ID: V002
+Effective Date: March 1, 2025
+Expiration Date: February 28, 2027
+
+1. SCOPE OF SERVICES
+Vendor shall supply electrical, HVAC, and building materials as specified in
+individual Purchase Orders issued by Client.
+
+2. PRICING AND TARIFFS
+Fixed unit rates agreed for the contract period:
+  - Electrical Wiring (Phase 1): $320.00 per unit
+  - HVAC Installation:           $2,500.00 per unit
+  - Plumbing Rough-In:           $1,100.00 per unit
+  - Safety Inspection Services:  $400.00 per unit
+
+Rates are fixed for 12 months and subject to CPI adjustment not exceeding 3%
+thereafter with 60 days advance written notice to Client.
+
+3. VOLUME DISCOUNTS
+  - Orders exceeding 20 HVAC units per quarter: 5% discount
+  - Orders exceeding 50 electrical units per quarter: 3% discount
+
+4. PAYMENT TERMS
+Net-45 from invoice date. Early payment discount of 1.5% if paid within 15 days.
+
+5. WARRANTY AND LIABILITY
+Vendor warrants all installed equipment for a period of 24 months.
+Liability for defective materials is capped at the value of the specific order.
+
+6. DISPUTE RESOLUTION
+All disputes shall be resolved through binding arbitration in Chicago, Illinois.

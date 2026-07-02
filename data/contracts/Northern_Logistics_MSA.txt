@@ -1,0 +1,32 @@
+MASTER SERVICES AGREEMENT
+Between: GlobalCorp Enterprises Inc. ("Client")
+And: Northern Logistics Co ("Vendor")
+Vendor ID: V005
+Effective Date: February 1, 2025
+Expiration Date: January 31, 2027
+
+1. SCOPE OF SERVICES
+Northern Logistics provides freight transport, materials staging, and
+delivery coordination for all Client construction site requirements.
+
+2. RATE SCHEDULE
+  - Local freight (within 50 miles): $200.00 per delivery
+  - Long-haul freight (50-300 miles): $0.75 per ton-mile
+  - Emergency delivery surcharge: 35% above standard rate
+  - Staging and warehousing: $1.50 per pallet per day
+
+3. SERVICE LEVEL AGREEMENT
+  - Standard delivery: 3-5 business days
+  - Priority delivery: 24-48 hours (surcharge applies)
+  - On-time delivery target: 95% or above on rolling 90-day basis
+
+Failure to meet SLA targets for two consecutive months gives Client
+the right to renegotiate rates downward by up to 10%.
+
+4. CLAIMS AND LIABILITY
+Vendor is liable for lost or damaged cargo up to invoice value.
+Claims must be filed within 5 business days of delivery.
+
+5. FUEL SURCHARGE
+A fuel surcharge of up to 8% may be applied when diesel index exceeds
+$4.00/gallon. Surcharge must be itemized separately on each invoice.

@@ -1,0 +1,42 @@
+SUBCONTRACT AGREEMENT FOR ELECTRICAL SERVICES
+Prime Contract No.: GC-ELEC-2025-001
+Subcontractor: TechBuild Materials Inc (V002)
+Prime Contractor: GlobalCorp Enterprises Inc.
+Project: Dallas Campus Expansion — Electrical Package
+Date: May 1, 2025
+
+1. SUBCONTRACT SCOPE
+Subcontractor shall furnish all labor, materials, and equipment necessary
+to complete electrical installation as per Drawings E-001 through E-045.
+
+2. CONTRACT SUM
+  - Phase 1 Electrical Wiring: $320.00 per unit (as per MSA dated March 1, 2025)
+  - Phase 2 Electrical Panels: $480.00 per unit (per attached schedule)
+  - Testing & Commissioning:   $200.00 per unit
+
+Total estimated contract value: $850,000.00 (subject to final unit counts).
+
+3. SCHEDULE
+  - Notice to Proceed: May 15, 2025
+  - Substantial Completion: September 30, 2025
+  - Final Completion: October 31, 2025
+
+4. BILLING REQUIREMENTS
+Monthly applications for payment shall include:
+  a) Signed Schedule of Values (AIA G702/G703)
+  b) Conditional lien waiver for current period
+  c) Unconditional lien waiver for prior paid amounts
+
+5. RETAINAGE
+10% retainage withheld from each payment application until
+Substantial Completion is certified by Client's engineer.
+
+6. CHANGE ORDER RATES
+For changes within scope of work:
+  - Journeyman Electrician: $95.00/hour
+  - Foreman:                $115.00/hour
+  - Materials: cost + 15% markup
+
+7. INDEMNIFICATION
+Subcontractor shall indemnify and hold harmless Prime Contractor and Owner
+against all claims arising from Subcontractor's operations.

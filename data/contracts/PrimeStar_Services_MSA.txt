@@ -1,0 +1,36 @@
+MASTER SERVICES AGREEMENT
+Between: GlobalCorp Enterprises Inc. ("Client")
+And: PrimeStar Services Corp ("Vendor")
+Vendor ID: V004
+Effective Date: April 15, 2025
+Expiration Date: April 14, 2026
+
+1. SCOPE OF SERVICES
+PrimeStar provides logistics coordination, safety inspection, and
+workforce management services on Client construction sites.
+
+2. PRICING SCHEDULE
+  - Safety Inspection Services: $400.00 per inspection unit
+  - Workforce Coordination:     $150.00 per hour
+  - Logistics Management:       $800.00 per day
+
+The above rates represent maximum allowable billing rates. Vendor may
+bill below these rates but must not exceed them under any circumstance.
+
+3. COMPLIANCE REQUIREMENTS
+All personnel must hold valid OSHA-30 certifications. Vendor will provide
+certification records upon Client request within 2 business days.
+
+4. INSURANCE REQUIREMENTS
+Vendor shall maintain:
+  - General Liability: minimum $2,000,000 per occurrence
+  - Workers Compensation as required by law
+  - Professional Liability: minimum $1,000,000
+
+5. PAYMENT TERMS
+Net-30 from verified invoice receipt. Client has right to audit invoices
+and request supporting documentation for any line item within 60 days.
+
+6. TERMINATION FOR CONVENIENCE
+Client may terminate with 30 days notice. Vendor entitled to payment for
+work completed as of termination date only.

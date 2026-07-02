@@ -1,0 +1,34 @@
+MASTER SERVICES AGREEMENT
+Between: GlobalCorp Enterprises Inc. ("Client")
+And: GlobalCivil Partners Ltd ("Vendor")
+Vendor ID: V003
+Effective Date: June 1, 2025
+Expiration Date: May 31, 2028
+
+1. SCOPE OF SERVICES
+Vendor provides civil engineering, project management, and site preparation
+services for large-scale infrastructure projects.
+
+2. PRICING AND TARIFFS
+  - Project Management Fee:   $150.00 per hour (capped at 160 hours/month)
+  - Site Clearing & Grading:  $800.00 per acre
+  - Safety Inspection:        $400.00 per unit inspection
+
+Hourly rate is inclusive of travel within a 50-mile radius of project site.
+Travel exceeding 50 miles billed at $0.70/mile in addition to hourly rate.
+
+3. DELIVERABLES AND MILESTONES
+  - Monthly progress reports due by the 5th of each month
+  - Final milestone sign-off required before invoice submission
+
+4. PAYMENT TERMS
+Net-30. Invoices submitted without milestone sign-off documentation will be
+held pending receipt of required supporting materials.
+
+5. PRICING ADJUSTMENTS
+Client may request competitive re-bid after 18 months if market rates for
+equivalent services decline more than 10% per independent survey.
+
+6. CONFIDENTIALITY
+Vendor shall maintain strict confidentiality of all project specifications
+and Client business data for a period of 5 years post-contract.
